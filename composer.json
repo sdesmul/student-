@@ -1,0 +1,13 @@
+{
+  "name": "sdesmul/IT328/student-",
+  "authors": [
+    {
+      "name": "Samantha DeSmul",
+      "email": "sdesmul@mail.greenriver.edu"
+    }
+  ],
+  "require":
+  {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
